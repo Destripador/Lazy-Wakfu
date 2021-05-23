@@ -1,4 +1,4 @@
-# Lazy-Wakfu
+# DEPRECATE NO USE Lazy-Wakfu
 Easy installer for wakfu 
 only run the appimage on your linux (for now only deb packages)
 
